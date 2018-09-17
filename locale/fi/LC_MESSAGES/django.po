@@ -37,7 +37,7 @@ msgstr "tiedostot"
 
 #, python-brace-format
 msgid "{0} features are imported"
-msgstr ""
+msgstr "{0} kohdetta tuotu"
 
 msgid "shapefiles"
 msgstr "shape-tiedostot"
@@ -45,7 +45,7 @@ msgstr "shape-tiedostot"
 msgid ""
 "Zipped shapefiles that contains .shp, .shx and .dbf files with a common "
 "filename prefix"
-msgstr ""
+msgstr "Zip-tiedosto, joka sisältää .shp, .shx. ja .dbf -tiedostot"
 
 msgid "created by"
 msgstr "digitoija"
@@ -61,23 +61,24 @@ msgstr "shape-tiedostojen eräajot"
 
 #, python-format
 msgid "%(filename)s is not a valid zip file."
-msgstr ""
+msgstr "%(filename)s ei kelpaa"
 
 msgid "Files do not have a common filename prefix."
-msgstr ""
+msgstr "Tiedostojen tulee olla samannimisiä päätettä lukuunottamatta"
 
 msgid ".shp, .shx and .dbf files are required."
-msgstr ""
+msgstr "Tarvitaan tiedostot .shp, .shx ja .dbf."
 
 #, python-format
 msgid ""
 "Fields not allowed: %(fields)s. Allowed shapefile fields are: "
 "%(allowed_fields)s."
-msgstr ""
+msgstr "Nämä kentät eivät kelpaa: %(fields)s. Sallitut kentät ovat: "
+"%(allowed_fields)s."
 
 #, python-format
 msgid "Feature classes do not exist: %(feature_classes)s."
-msgstr ""
+msgstr "Näitä kohdeluokkia ei ole olemassa: %(feature_classes)s."
 
 msgid "Luontotietojärjestelmä site admin"
 msgstr "Luontotietojärjestelmä-sivuston ylläpito"
