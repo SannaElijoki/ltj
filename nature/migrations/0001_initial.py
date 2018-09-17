@@ -479,7 +479,7 @@ class Migration(migrations.Migration):
                 'db_table': 'lajirekisteri',
                 'ordering': ['id'],
                 'verbose_name': 'species',
-                'verbose_name_plural': 'species',
+                'verbose_name_plural': 'species register',
             },
         ),
         migrations.CreateModel(
